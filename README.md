@@ -1,5 +1,6 @@
 # CAN network simulator
-The present CAN network simulator has been designed in the scope of my master thesis: "Design, testing and simulation of a wireless CAN network".  This thesis has been presented by Sacha MEURICE with a view to obtaining the degree of Civil Engineer in computer science for the academic year 2023-2024.  
+The present CAN network simulator has been designed in the scope of my master thesis: "Design, testing and simulation of a wireless CAN network".  This thesis has been presented by Sacha MEURICE with a view to obtaining the degree of Civil Engineer in computer science for the academic year 2023-2024.
+
 Keywords: simulation, CAN network, CAN protocol, networks, wireless, simulator, nodes, controller area network.
 
 ### Introduction
